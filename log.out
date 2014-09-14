@@ -1,0 +1,152 @@
+1 cycle
+labeling
+labeling 413sec
+mkdir: cannot create directory `onlyBI': File exists
+create BI nolimit file
+create train data
+mkdir: cannot create directory `tests': File exists
+mkdir: cannot create directory `trains': File exists
+test, ＣＶＴ.txt
+test, ＡＢＳ.txt
+test, オートマチックトランスミッション.txt
+test, パワステ.txt
+train ラジエータ.txt
+train ナビゲーション.txt
+train ロアアーム.txt
+train ＶＶＴ.txt
+train エンジンチェックランプ.txt
+train ＤＳＧ.txt
+train デファレンシャル.txt
+train ＥＧＲ.txt
+train ダンパー.txt
+train イモビライザー.txt
+train エキゾーストマニホールド.txt
+train キーレスエントリー.txt
+train イグニッションコイル.txt
+train ＥＳＰ.txt
+train パワーステアリングポンプ.txt
+train ＥＴＣ.txt
+train ラジエター.txt
+train キーフリーシステム.txt
+train オルタネータ.txt
+train トラクションコントロール.txt
+train イグニッションキー.txt
+train ＥＰＳ.txt
+train ＤＰＦ.txt
+train パワーステアリングアシスト.txt
+train ターボチャージャー.txt
+train ＡＳＣ.txt
+train オルタネーター.txt
+train ABSTRACS.txt
+train ステアリングギアボックス.txt
+train ＡＢＳＥＳＰ.txt
+train サンルーフ.txt
+train インジェクター.txt
+train ABS.txt
+train ステー.txt
+train ショックアブソーバ.txt
+train コンロッド.txt
+train インジケーター.txt
+train センサ.txt
+train アクチュエーター.txt
+train スタビライザー.txt
+train ディスクローター.txt
+train プーリ.txt
+train コネクター.txt
+train セレスピード.txt
+train タペット.txt
+train ヒンジ.txt
+train レギュレーター.txt
+train ロアアームボールジョイント.txt
+train チェンジレバー.txt
+train フットブレーキ.txt
+train ブレーキキャリパー.txt
+train イグニッションスイッチ.txt
+train イグニッション.txt
+train ヘッドガスケット.txt
+train ブレーキローター.txt
+train マニホールド.txt
+train ＥＣＵ.txt
+train グロープラグ.txt
+train クランクプーリ.txt
+train ウィンカー.txt
+train パワーウインドウスイッチ.txt
+train リヤブレーキ.txt
+train インパネ.txt
+train パワーステアリングオイル.txt
+train レギュレータ.txt
+train キャリパー.txt
+train インテークマニホールド.txt
+train ゴムパッキン.txt
+train インストルメントパネル.txt
+train リヤガラス.txt
+train スロットルチャンバー.txt
+train ウォッシャー.txt
+train エアサス.txt
+train ロアボールジョイント.txt
+train マニュアルトランスミッション.txt
+train ヘッドレスト.txt
+train フォグランプ.txt
+train ハイマウントストップランプ.txt
+train フランジ.txt
+train エアフロメーター.txt
+train リヤサスペンション.txt
+train クランクポジションセンサー.txt
+train シリンダーヘッドガスケット.txt
+train リヤショックアブソーバー.txt
+train フューエルポンプ.txt
+train パワーステアリングモーター.txt
+train ベルトテンショナー.txt
+train ＤＰＲ.txt
+train コネクタ.txt
+train エアフローメーター.txt
+train カプラー.txt
+train ＤＶＶＴ.txt
+train テンショナー.txt
+train ＬＥＤ.txt
+train リヤハッチ.txt
+train ローター.txt
+train リヤゲート.txt
+train リザーバータンク.txt
+train ＤＰＤ.txt
+train サンバイザー.txt
+train フルード.txt
+train ＳＲＳ.txt
+train ＡＴＦ.txt
+train ＤＳＣ.txt
+train ブレーキフルード.txt
+train テールランプレンズ.txt
+train ＡＢＳアクチュエーター.txt
+train ホースクランプ.txt
+train ラジェーター.txt
+train リヤゲートダンパー.txt
+train フューエルポンプＥＣＵ.txt
+train リヤハッチダンパー.txt
+train スタビライザーボルト.txt
+train マルチインフォメーションディスプレー.txt
+train デフシール.txt
+train オートマチックトランスミッションフルード.txt
+train リヤゲートヒンジ.txt
+train アイドルアップモーター.txt
+train ブレーキランプレンズ.txt
+train
+CRF++: Yet Another CRF Tool Kit
+Copyright (C) 2005-2013 Taku Kudo, All rights reserved.
+
+encoder.cpp(340) [feature_index.open(templfile, trainfile)] feature_index.cpp(174) [max_size == size] inconsistent column size: 11 12 ./train.txt
+train 0sec
+create test data
+create test 1sec
+test
+feature_index.cpp(193) [mmap_.open(model_filename)] mmap.h(153) [(fd = ::open(filename, flag | O_BINARY)) >= 0] open failed: model
+test 0sec
+diff
+diff 0sec
+grade
+grade 0sec
+all 4sec
+mkdir: cannot create directory `2': File exists
+FINISH
+expr: syntax error
+cycle
+all cycle 417sec
